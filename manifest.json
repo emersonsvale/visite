@@ -1,0 +1,23 @@
+{
+    "name": "Emerson do Vale | Low/No Code Developer",
+    "short_name": "Emerson Vale",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "Software Engineer | Web Developer | Flutter Developer | FlutterFlow | Bubble | Supabase | Xano",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "https://abibhwgxbdlwhswjatay.supabase.co/storage/v1/object/public/images/logos/applauncher192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "https://abibhwgxbdlwhswjatay.supabase.co/storage/v1/object/public/images/logos/applauncher512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
